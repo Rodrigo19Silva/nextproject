@@ -1,0 +1,38 @@
+[
+    {
+        "id": "html",
+        "title": "HTML",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg",
+        "description": "Linguagem de marcação utilizada para construir as estruturas básicas de páginas na web.",
+        "category": "Frontend",
+        "price": 0,
+        "rating": {
+            "rate": 5,
+            "count": 100
+        }
+    },
+    {
+        "id": "css",
+        "title": "CSS",
+        "image": "path/to/css-logo.png",
+        "description": "Linguagem de estilos usada para descrever a apresentação de documentos HTML.",
+        "category": "Frontend",
+        "price": 0,
+        "rating": {
+            "rate": 5,
+            "count": 90
+        }
+    },
+    {
+        "id": "js",
+        "title": "JavaScript",
+        "image": "path/to/javascript-logo.png",
+        "description": "Linguagem de programação utilizada para criar interatividade nas páginas web.",
+        "category": "Frontend",
+        "price": 0,
+        "rating": {
+            "rate": 4.5,
+            "count": 150
+        }
+    }
+]
