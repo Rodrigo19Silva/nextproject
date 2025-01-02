@@ -3,7 +3,7 @@ import styles from './Footer.module.css';
 function Footer() {
     return (
         <footer className={styles.footer}>
-            {/* Conteúdo do footer */}
+            DIW 2024 Lusófona
         </footer>
     );
 }
